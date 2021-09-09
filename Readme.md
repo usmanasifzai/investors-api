@@ -20,3 +20,12 @@ If all goes well, you should be able to start project with
 ```sh
 npm start
 ```
+
+### Modules
+Investors module with 3 endpoints
+
+GET /investors
+
+POST /investors
+
+PUT /investors/:id
